@@ -48,7 +48,7 @@ https://huggingface.co/spaces/juanbernal22/Playlist-Vibe-Builder
 4. Only one song: The sorted list is provided automatically since no merging is involved.
 6. No artist name: The app shows an error, and asks the user to enter a name in the artist textbox.
 
-**Note:** TScreenshots of all runs and edge cases are presented in the images folder.
+**Note:** Screenshots of all runs and edge cases are presented in the images folder.
 
 ## Author & Acknowledgment:
 **Author:** Juan Bernal Guasca
