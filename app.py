@@ -79,7 +79,7 @@ def run_sorting_process():
 # GRADIO GUI
 
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("#Playlist Vibe Builder")
+    gr.Markdown("# Playlist Vibe Builder")
     gr.Markdown("Add your favorite songs and organize them by energy level using the Merge Sort algorithm.")
     
     with gr.Row():
