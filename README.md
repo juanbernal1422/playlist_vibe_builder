@@ -30,4 +30,6 @@ We show the user the final sorted list and a visualization of the merging proces
 **Note:** I chose to use a Python list because the merging process is easier to implement compared to a linked list.
 
 ### Flowchart:
+![Flowchart](images/flowchart.png)
+
 
