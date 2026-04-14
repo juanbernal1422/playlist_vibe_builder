@@ -76,7 +76,7 @@ def run_sorting_process():
         
     return log_text, final_output
 
-# --- GRADIO GUI LAYOUT ---
+# GRADIO GUI
 
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
     gr.Markdown("#Playlist Vibe Builder")
